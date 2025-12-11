@@ -12,16 +12,10 @@ This app should include **product listing, pagination, search, filtering, add-to
 ---
 # **Task Rules & Restrictions**
 
-### **Not Allowed**
-
-* ❌ Using AI tools (ChatGPT, Bard, Copilot, etc.) for writing code
-* ❌ Copy/pasting AI-generated code
-
-### **Allowed**
-
-* ✔ Using Google Search for documentation
-* ✔ Referring to StackOverflow for troubleshooting
-* ✔ Reading official documentation
+*  Can you use AI tools, but direct copy/pasting of AI-generated code is not allowed
+*  Using Google Search for documentation
+*  Referring to StackOverflow for troubleshooting
+*  Reading official documentation
 ---
 # 🔧 **Requirements**
 
